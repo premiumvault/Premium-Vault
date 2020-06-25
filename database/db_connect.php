@@ -1,5 +1,5 @@
 <?php
-$con=mysqli_connect("localhost","root","","blog_admin_db");
+$con=mysqli_connect("sql12.freemysqlhosting.net","sql12350701","Qp5ciSwIkw","sql12350701");
 // Check connection
 if (mysqli_connect_errno())
   {
